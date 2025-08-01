@@ -1,0 +1,23 @@
+# ninja log v5
+4368	6568	7680423312958696	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c4fefffb3b476b57
+7	6554	7680423269487717	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	30a35f7b0e5b160
+5107	7002	7680423320638776	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4a83d56ff46ef69d
+1354	6559	7680423284265940	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d4a67435c5453eec
+659	6557	7680423281244204	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4dd15e76cebb0057
+5823	6686	7680423317517549	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c00dfe589ce59830
+3647	6566	7680423305564251	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	95e21ab9ae4821ea
+2185	6562	7680423290936746	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	86b8498a8095826e
+2923	6564	7680423301319668	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	12949a03481b69f6
+6686	7698	7680423327604721	E:/Dark & Light/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3o6w3t26/obj/armeabi-v7a/libswappywrapper.so	6c5c35d02cc106c1
+7002	8461	7680423335216227	E:/Dark & Light/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3o6w3t26/obj/armeabi-v7a/libgame.so	624cc3f85938cb1b
+7	6796	7681240232378644	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	4dd15e76cebb0057
+673	6799	7681240235848162	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d4a67435c5453eec
+1422	6801	7681240242690292	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	86b8498a8095826e
+2149	6803	7681240251765928	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	30a35f7b0e5b160
+2886	6806	7681240258713566	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	95e21ab9ae4821ea
+3665	6808	7681240269022661	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	12949a03481b69f6
+4500	6811	7681240274457402	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c4fefffb3b476b57
+6043	6936	7681240279017808	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c00dfe589ce59830
+5288	7276	7681240282365957	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4a83d56ff46ef69d
+6937	8040	7681240289999556	E:/Dark & Light/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3o6w3t26/obj/armeabi-v7a/libswappywrapper.so	6c5c35d02cc106c1
+7276	8766	7681240297235999	E:/Dark & Light/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3o6w3t26/obj/armeabi-v7a/libgame.so	624cc3f85938cb1b
